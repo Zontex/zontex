@@ -24,8 +24,8 @@ params:
   title: ""
   description: "Roni Gorodetsky - an Entrepreneur and full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware."
   # staticPath: ""  # The path to serve the static files from
-  favicon: "images/favicon.ico"
-  applefavicon: "images/favicon.ico"
+  favicon: "/images/favicon.ico"
+  applefavicon: "/images/favicon.ico"
 
   theme:
     disableThemeToggle: false
