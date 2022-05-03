@@ -22,7 +22,7 @@ Menus:
 
 params:
   title: ""
-  description: "Roni Gorodetsky (Hebrew: רוני גורודצקי) is an entrepreneur and full-stack developer with expirience in hardware, mobile development, cyber security, cloud, firmware and IoT."
+  description: "Roni Gorodetsky - an entrepreneur and full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware."
   # staticPath: ""  # The path to serve the static files from
   favicon: "images/favicon.ico"
   applefavicon: "images/favicon.ico"
