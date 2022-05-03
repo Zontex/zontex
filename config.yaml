@@ -74,7 +74,7 @@ params:
     intro: "Hey there, my name is"
     title: "Roni Gorodetsky"
     subtitle: "And I get things done."
-    content: "A passionate full-stack engineer and Entrepreneur. I use modern frameworks, cutting edge tools and hardware to turn ideas into reality."
+    content: "A passionate Full-stack IoT developer and Entrepreneur. I use modern frameworks, cutting edge tools and hardware to turn ideas into reality."
     image: /images/hero.png
     button:
       enable: true
@@ -96,7 +96,7 @@ params:
     title: "About Me"
     image: "images/cat-computer.webp"
     content: |-
-      I am a full-stack engineer and entrepreneur with expertise in the back-end, firmware, and mobile apps development and the ability to communicate in English, Hebrew, Russian, and Mandarin.<br/><br/>Extremely passionate about hardware and web3 decentralization ideas. on my free time I love to explore new project ideas and see how I can take an idea, make a plan and finally turn it into reality. The more projects I explore, the bigger my skillset gets. I'm a strong believer in project-based learning.<br/><br/>
+      Hey there, I am a full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware with ability to communicate in English, Hebrew, Russian, and Mandarin.<br/><br/>Extremely passionate about hardware and web3 decentralization ideas. on my free time I love to explore new project ideas and see how I can take an idea, make a plan and finally turn it into reality. The more projects I explore, the bigger my skillset gets. I'm a strong believer in project-based learning.<br/><br/>
     skills:
       enable: true
       title: "Some of the technologies I've been working with recently:"
