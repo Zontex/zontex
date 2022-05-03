@@ -1,6 +1,6 @@
 baseURL: "https://roni.io/"
 languageCode: "en-us"
-title: "Roni Gorodetsky - full-stack IoT developer, Entrepreneur and cyber security analyst."
+title: "Roni Gorodetsky - Full-stack IoT developer and Entrepreneur"
 theme: hugo-profile
 
 Paginate: 3
