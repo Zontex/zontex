@@ -77,7 +77,7 @@ params:
     title: "Roni Gorodetsky"
     subtitle: "And I get things done."
     content: "A passionate Full-stack IoT developer and Entrepreneur. I use modern frameworks, cutting edge tools and hardware to turn ideas into reality."
-    image: /images/hero.png
+    image: /images/hero.jpeg
     button:
       enable: true
       name: "Resume"
