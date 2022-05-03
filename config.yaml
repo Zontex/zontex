@@ -21,7 +21,7 @@ Menus:
       weight: 1
 
 params:
-  title: "Roni Gorodetsky - Full-stack IoT developer and Entrepreneur"
+  title: ""
   description: "Roni Gorodetsky - an Entrepreneur and full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware."
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/favicon.ico"
