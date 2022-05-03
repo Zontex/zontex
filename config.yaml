@@ -71,7 +71,7 @@ params:
   # Hero
   hero:
     enable: true
-    intro: "You might be wondering who am I ... My name is"
+    intro: "Hey there, my name is"
     title: "Roni Gorodetsky"
     subtitle: "And I get things done."
     content: "A passionate Full-stack IoT developer and Entrepreneur. I use modern frameworks, cutting edge tools and hardware to turn ideas into reality."
