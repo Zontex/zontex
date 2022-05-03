@@ -22,7 +22,7 @@ Menus:
 
 params:
   title: ""
-  description: "Roni Gorodetsky - an entrepreneur and full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware."
+  description: "Roni Gorodetsky - an Entrepreneur and full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware."
   # staticPath: ""  # The path to serve the static files from
   favicon: "images/favicon.ico"
   applefavicon: "images/favicon.ico"
@@ -154,8 +154,8 @@ params:
       - title: Innovator of the year
         content: Issued by Beijing Chaoyang district government 
         url: '#'
-      - title: Shenzhen entrepenuar star
-        content: Nanshan government Shenzhen entrepenuar star contest finalist
+      - title: Shenzhen Entrepreneur star
+        content: Nanshan government Shenzhen Entrepreneur star contest finalist
         url: '#'
       - title: Smarthon Hackthon Grand Winner
         content: Won the grand prize of 50,000HKD in Smarton hackathon which held in Hong Kong by developing a smart IoT solution within 30 hours limit.
