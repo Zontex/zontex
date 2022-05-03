@@ -79,7 +79,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "https://www.linkedin.com/in/roni-gorodetsky/"
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-github
