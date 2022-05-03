@@ -269,3 +269,11 @@ params:
       linkedin: https://www.linkedin.com/in/roni-gorodetsky/
       twitter: https://twitter.com/roni_gorodetsky
       instagram: https://instagram.com/roni.gorodetsky
+
+# add robots.txt
+enableRobotsTXT: true
+# add sitemap
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
