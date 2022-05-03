@@ -23,7 +23,7 @@ Menus:
 params:
   title: ""
   images:
-    - /images/hero.png
+    - /images/hero.jpeg
   description: "Roni Gorodetsky - an Entrepreneur and full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware."
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/favicon.ico"
@@ -228,7 +228,7 @@ params:
       
       - title: Edge Smart inventory management with smart LEDs
         content: I designed a smart edge inventory management system, based on the open source "Inventree" project, the system enables locating components with ease using smart LEDs and instantly print labels by connecting to a wireless/wired label printer.
-        image: 'images/projects/omnikit-smart-inventory-leds.avif'
+        image: 'images/projects/omnikit-smart-inventory-leds.png'
         #featured:
         #  name: text
         #  link: '#'
