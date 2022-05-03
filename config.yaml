@@ -4,7 +4,7 @@ title: "Roni Gorodetsky - Full-stack IoT developer and Entrepreneur"
 theme: hugo-profile
 
 Paginate: 3
-disqusShortname: ronigorodetsky
+disqusShortname: roni-io
 googleAnalytics: G-CV897YSFYR
 
 markup:
@@ -21,7 +21,7 @@ Menus:
       weight: 1
 
 params:
-  title: ""
+  title: "Roni Gorodetsky - Full-stack IoT developer and Entrepreneur"
   description: "Roni Gorodetsky - an Entrepreneur and full-stack IoT developer with experience in hardware, mobile development, cyber security, cloud and firmware."
   # staticPath: ""  # The path to serve the static files from
   favicon: "/images/favicon.ico"
